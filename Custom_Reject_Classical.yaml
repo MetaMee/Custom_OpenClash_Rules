@@ -2,6 +2,3 @@ payload:
   - DOMAIN-KEYWORD,stun
   - DOMAIN-KEYWORD,turn
   - DOMAIN-KEYWORD,webrtc
-  - DOMAIN-KEYWORD,mcdn
-  - DOMAIN-KEYWORD,pcdn
-  - DOMAIN-SUFFIX,szbdyd.com
