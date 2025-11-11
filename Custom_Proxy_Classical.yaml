@@ -1,2 +1,3 @@
 payload:
   - DOMAIN-SUFFIX,ntp.msn.com
+  - DOMAIN-SUFFIX,moptt.azurewebsites.net
